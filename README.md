@@ -339,7 +339,7 @@ This project is licensed under the MIT License.
 
 **Aspiring Full Stack Developer | AI Enthusiast | Java Developer**
 
-📧 Email: your-email@example.com
+📧 Email: pavulurisailithan@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/pavuluri-sai-lithan-a19781358?utm_source=share_via&utm_content=profile&utm_medium=member_android
 🐙 GitHub: https://github.com/pavulurisailithan
