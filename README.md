@@ -341,7 +341,7 @@ This project is licensed under the MIT License.
 
 📧 Email: your-email@example.com
 
-💼 LinkedIn: https://linkedin.com/in/Pavuluri Sai Lithan
+💼 LinkedIn: https://www.linkedin.com/in/pavuluri-sai-lithan-a19781358?utm_source=share_via&utm_content=profile&utm_medium=member_android
 🐙 GitHub: https://github.com/pavulurisailithan
 
 ---
